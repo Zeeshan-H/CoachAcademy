@@ -1,0 +1,39 @@
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\Coach Academy.dll.config
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\Coach Academy.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\Coach Academy.pdb
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\Antlr3.Runtime.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\EntityFramework.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\EntityFramework.SqlServer.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\Microsoft.Web.Infrastructure.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\Newtonsoft.Json.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Net.Http.Formatting.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Cors.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Helpers.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Http.Cors.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Http.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Http.WebHost.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Mvc.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Optimization.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Razor.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.WebPages.Deployment.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.WebPages.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.WebPages.Razor.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\WebGrease.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\EntityFramework.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\EntityFramework.SqlServer.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\Newtonsoft.Json.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Net.Http.Formatting.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Helpers.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Http.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Http.Cors.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Http.WebHost.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Mvc.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Razor.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.WebPages.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.WebPages.Deployment.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.WebPages.Razor.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\System.Web.Optimization.xml
+H:\VS2013\Projects\Coach Academy\Coach Academy\bin\Antlr3.Runtime.pdb
+H:\VS2013\Projects\Coach Academy\Coach Academy\obj\Debug\Coach Academy.csprojResolveAssemblyReference.cache
+H:\VS2013\Projects\Coach Academy\Coach Academy\obj\Debug\Coach Academy.dll
+H:\VS2013\Projects\Coach Academy\Coach Academy\obj\Debug\Coach Academy.pdb
