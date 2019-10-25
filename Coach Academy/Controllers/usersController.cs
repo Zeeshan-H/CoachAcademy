@@ -69,7 +69,7 @@ namespace Coach_Academy.Controllers
         public async Task<string> Upload()
         {
             var ctx = HttpContext.Current;
-            var root =  ctx.Server.MapPath("https://github.com/Zeeshan-H/CoachAcademy/tree/master/Coach%20Academy/uploads/");
+            var root =  ctx.Server.MapPath("/uploads/");
             var provider =
                 new MultipartFormDataStreamProvider(root);
 
